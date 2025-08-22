@@ -24,6 +24,6 @@ Models are trained on socio-economic and geographic features, including:
 Our models demonstrated strong predictive power, with speaker population consistently emerging as the dominant driver of language vitality. By strategically grouping similar endangerment categories, we drastically improved classification stability and mitigated overfitting. The Gradient Boosting classifier and a hard voting ensemble stood out as top performers, each surpassing 88% test accuracy, underscoring the potential of machine learning to anticipate language endangerment trends.
 
 ## Final Deliverable
-📌 For the complete narrative and final results, please see [the output folder](https://github.com/courtneyjchen/python-language-endangerment/tree/main/output). This document showcases our approach and synthesizes the analysis into a clear, compelling format designed to inform decision-making.
+📌 For the complete narrative and final results, please see [Predicting Language Endangerment - Deck.pdf](https://github.com/courtneyjchen/python-language-endangerment/blob/main/output/Predicting%20Language%20Endangerment%20-%20Deck.pdf). This document showcases our approach and synthesizes the analysis into a clear, compelling format designed to inform decision-making.
 
 **Contributors:** Jordan Andersen, Brian Woods, Helin Yilmaz
