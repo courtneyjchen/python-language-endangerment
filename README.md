@@ -18,8 +18,8 @@ Models are trained on socio-economic and geographic features, including:
 - Urbanization and internet usage rates in countries where the language is spoken
 
 ## Results  
-- **Baseline (majority class)**: 43% test accuracy  
-- **Tuned gradient boosting & ensemble models**: ~88.3% test accuracy
+- Baseline (majority class): 43% test accuracy  
+- Tuned gradient boosting & ensemble models: ~88.3% test accuracy
 
 Ultimately, all models demonstrated strong predictive power, with speaker population consistently emerging as the most influential factor of language vitality. By strategically grouping similar endangerment categories, we drastically improved classification stability and mitigated overfitting. The Gradient Boosting classifier and a hard voting ensemble stood out as top performers, each surpassing 88% test accuracy, underscoring the potential of machine learning to anticipate language endangerment trends.
 
