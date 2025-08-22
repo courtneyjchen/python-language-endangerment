@@ -18,6 +18,8 @@ Models are trained on socio-economic and geographic features, including:
 - Political recognition status  
 - Urbanization and internet usage rates for countries where the language is spoken
 
+**Contributors:** Jordan Andersen, Brian Woods, Helin Yilmaz
+
 ## Results  
 - **Baseline (majority class)**: 43% test accuracy  
 - **Tuned gradient boosting & ensemble models**: ~88.3% test accuracy  
