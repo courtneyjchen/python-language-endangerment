@@ -12,6 +12,7 @@ We frame the task as a multi-class classification problem, predicting a language
 - Extinct  
 
 **Features**
+
 Models are trained on socio-economic and geographic features, including:  
 - Speaker counts  
 - Number of countries where the language is spoken  
