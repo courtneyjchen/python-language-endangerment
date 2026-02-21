@@ -1,5 +1,4 @@
 # Predicting Language Endangerment with Machine Learning
-*Dislaimer: The data used in the following project is for non-commercial educational and personal use.*
 
 ## Project Overview
 This project explores whether machine learning can help answer a critical question: **what makes a language endangered, and can we anticipate these patterns before it’s too late?** As languages vanish, so do unique histories, identities, and worldviews. By identifying the factors that drive endangerment, we aim to support earlier, more focused efforts to preserve linguistic and cultural diversity. We built five models—a baseline, gradient boost, ensemble, extra trees, and neural networks—to explore their ability to predict levels of language endangerment and uncover the features most strongly linked to linguistic survival.
