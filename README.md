@@ -20,7 +20,7 @@ Models are trained on socio-economic and geographic features, including:
 - Baseline (majority class): 46% test accuracy  
 - Tuned gradient boosting & ensemble models: 88% test accuracy
 
-Ultimately, all models demonstrated strong predictive power, with speaker population consistently emerging as the most influential factor of language vitality. By strategically grouping similar endangerment categories, we drastically improved classification stability and mitigated overfitting. The Gradient Boosting classifier and a hard voting ensemble stood out as top performers, each surpassing 88% test accuracy, underscoring the potential of machine learning to anticipate language endangerment trends.
+Ultimately, all models demonstrated strong predictive power, with speaker population consistently emerging as the most influential factor of language vitality. By strategically grouping similar endangerment categories, we drastically improved classification stability and mitigated overfitting. The Gradient Boosting classifier and a hard voting ensemble stood out as top performers, each surpassing 88% test accuracy. Overall, this project demonstrates how machine learning can be leveraged to proactively identify language endangerment risk and inform early intervention strategies.
 
 ## Final Deliverable
 📌 For the complete narrative and final results, please see our final [report](https://github.com/courtneyjchen/python-language-endangerment/blob/main/output/Predicting%20Language%20Endangerment%20-%20Report.pdf) and [presentation](https://github.com/courtneyjchen/python-language-endangerment/blob/main/output/Predicting%20Language%20Endangerment%20-%20Deck.pdf). These documents showcase our approach and synthesize the analysis into a clear, compelling format.
